@@ -1,0 +1,20 @@
+.PizzaRemove {
+    font-size: 10pt;
+    color: white;
+    background-color: red;
+    margin: 5px;
+    border-radius: 15px;
+    height: 30px;
+    width: 120px;
+}
+
+.Pizza {
+    font-size: 14pt;
+    list-style-type: none;
+}
+
+.Topping {
+    font-size: 12pt;
+    list-style-type: none;
+
+}

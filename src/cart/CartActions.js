@@ -1,0 +1,1 @@
+export const removePizza = (pizza) => ({type: 'REMOVE_PIZZA', pizza});

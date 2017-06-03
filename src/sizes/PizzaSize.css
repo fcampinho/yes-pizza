@@ -1,0 +1,9 @@
+.PizzaSize {
+    font-size: 15pt;
+    color: black;
+    background-color: gray;
+    margin: 5px;
+    border-radius: 15px;
+    height: 50px;
+    width: 240px;
+}
